@@ -1,0 +1,8 @@
+/.phpunit.cache
+/storage/*.key
+.phpunit.result.cache
+npm-debug.log
+yarn-error.log
+/.fleet
+/.idea
+/.vscode
